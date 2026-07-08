@@ -1,0 +1,5 @@
+https://shaik-456-bucket.s3.amazonaws.com/index.html
+
+http://shaik-456-bucket.s3-website-us-east-1.amazonaws.com/
+
+d3pia5togggs9b.cloudfront.net
